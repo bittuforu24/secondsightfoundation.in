@@ -1,0 +1,18 @@
+[06-May-2024 09:30:10 Asia/Calcutta] PHP Warning:  Undefined array key "pro_id" in /home2/jhbewdmy/public_html/goonmala/ajax/product-detail.php on line 3
+[06-May-2024 09:30:10 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home2/jhbewdmy/public_html/goonmala/ajax/product-detail.php on line 14
+[06-May-2024 09:30:10 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home2/jhbewdmy/public_html/goonmala/ajax/product-detail.php on line 15
+[06-May-2024 09:30:10 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home2/jhbewdmy/public_html/goonmala/ajax/product-detail.php on line 16
+[06-May-2024 09:30:10 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home2/jhbewdmy/public_html/goonmala/ajax/product-detail.php on line 17
+[06-May-2024 09:30:10 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home2/jhbewdmy/public_html/goonmala/ajax/product-detail.php on line 18
+[08-May-2024 10:59:07 Asia/Calcutta] PHP Warning:  Undefined array key "pro_id" in /home2/jhbewdmy/public_html/goonmala/ajax/product-detail.php on line 3
+[08-May-2024 10:59:07 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home2/jhbewdmy/public_html/goonmala/ajax/product-detail.php on line 14
+[08-May-2024 10:59:07 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home2/jhbewdmy/public_html/goonmala/ajax/product-detail.php on line 15
+[08-May-2024 10:59:07 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home2/jhbewdmy/public_html/goonmala/ajax/product-detail.php on line 16
+[08-May-2024 10:59:07 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home2/jhbewdmy/public_html/goonmala/ajax/product-detail.php on line 17
+[08-May-2024 10:59:07 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home2/jhbewdmy/public_html/goonmala/ajax/product-detail.php on line 18
+[16-May-2024 23:43:47 Asia/Calcutta] PHP Warning:  Undefined array key "pro_id" in /home2/jhbewdmy/public_html/goonmala/ajax/product-detail.php on line 3
+[16-May-2024 23:43:47 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home2/jhbewdmy/public_html/goonmala/ajax/product-detail.php on line 14
+[16-May-2024 23:43:47 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home2/jhbewdmy/public_html/goonmala/ajax/product-detail.php on line 15
+[16-May-2024 23:43:47 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home2/jhbewdmy/public_html/goonmala/ajax/product-detail.php on line 16
+[16-May-2024 23:43:47 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home2/jhbewdmy/public_html/goonmala/ajax/product-detail.php on line 17
+[16-May-2024 23:43:47 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home2/jhbewdmy/public_html/goonmala/ajax/product-detail.php on line 18
